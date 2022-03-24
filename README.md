@@ -1,2 +1,2 @@
-# Estudo-de-caso---Administra-o-de-im-veis
+# Estudo de caso - Administração de imóveis
 PROJETO DE PROGRAMAÇÃO WEB
