@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://ibb.co/k0HGSKR"><img src="https://i.ibb.co/tcmHJB7/C-pia-de-Sem-nome-850-px-250-px.png" alt="C-pia-de-Sem-nome-850-px-250-px" border="0" /></a>
+</p>
 
 <h3 style="text-align: center;"><span style="color: #004c94;"><strong><span class="JsGRdQ">Centro Universit&aacute;rio <span style="color: #ff6600;">SENAC</span></span></strong></span></h3>
 
