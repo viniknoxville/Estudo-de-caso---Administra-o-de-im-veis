@@ -8,9 +8,6 @@
 
 <p style="text-align: center;">Programação WEB<br />2&deg; per&iacute;odo , turma B / Noturno / Grupo-09</p>
 <ul>
-<li>Daiara vieira Barbosa</li>
-<li>Jhonata lopes dos Santos</li>
 <li>Marcos Vinicius dos Santos Ribeiro</li>
-<li>Renan Scarpato</li>
 </ul>
 <p>Orientador:
