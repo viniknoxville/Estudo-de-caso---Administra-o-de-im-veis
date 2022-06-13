@@ -6,7 +6,7 @@
 
 <h3 style="text-align: center;"><span style="color: #004c94;"><strong>Projeto de Programação WEB - <a href="https://github.com/viniknoxville/Estudo_de_caso-Administracao_de_imoveis/blob/main/PROJETO%20DE%20PROGRAMA%C3%87%C3%83O%20WEB.pdf" target="_blank">Estudo de caso: Administrração de imóveis. </a></strong></span></h3>
 
-<p style="text-align: center;">Programação WEB<br />2&deg; per&iacute;odo , turma B / Noturno / Grupo-09</p>
+<p style="text-align: center;">Programação WEB<br />2&deg; per&iacute;odo , turma B / Noturno</p>
 <ul>
 <li>Marcos Vinicius dos Santos Ribeiro</li>
 </ul>
